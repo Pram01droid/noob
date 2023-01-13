@@ -1,3 +1,7 @@
-I am pramita. --Pramita
+I am Pramita. --Pramita
 I am a kid. 
 I am Akshat. --Akshat
+This commit is intended for acknowledging the huge contribution of Akshat Bhatnagar to 
+whatever I know(!) about github till now. 
+Also kudos to myself for finally being able to come to terms with my shortcomings 
+and be a good(?) student, overcoming all the hesitation and shame. -- Pramita 
